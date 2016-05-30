@@ -1,0 +1,5 @@
+/Users/Sowiarz/Documents/Zadanie_2/Zadanie_2/Zadanie_2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Sowiarz/Documents/Zadanie_2/Zadanie_2/Zadanie_2/bin/Debug/Zadanie_2.exe.mdb
+/Users/Sowiarz/Documents/Zadanie_2/Zadanie_2/Zadanie_2/bin/Debug/Zadanie_2.exe
+/Users/Sowiarz/Documents/Zadanie_2/Zadanie_2/Zadanie_2/obj/x86/Debug/Zadanie_2.exe
+/Users/Sowiarz/Documents/Zadanie_2/Zadanie_2/Zadanie_2/obj/x86/Debug/Zadanie_2.exe.mdb
